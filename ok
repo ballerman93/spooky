@@ -2,7 +2,7 @@ nimi = input("Palun sisestage oma nimi: ")
 vanus = int(input("Palun sisestage oma vanus: "))
 aasta = int(input("Palun sisestage aastaarv: "))
 
-praegune_aasta = 2024
+praegune_aasta = 2026
 vanus_antud_aastal = vanus + (aasta - praegune_aasta)
 
 print("Tere, " + nimi + "!")
